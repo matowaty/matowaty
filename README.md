@@ -19,6 +19,6 @@ Hey there! I'm **Mateusz**, a passionate developer on a mission to create awesom
 ## Let's Collaborate
 🤝 I'm always open to exciting collaboration opportunities. If you have an interesting project or idea in mind, let's connect and bring it to life!
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/matowaty)
+[![GitHub followers](https://img.shields.io/github/followers/matowaty?label=Follow&style=social)](https://github.com/matowaty)
 
 🎉 Thanks for visiting my GitHub page! Feel free to explore my repositories, leave feedback, or simply say hello. Let's code together and build something extraordinary! 🚀
