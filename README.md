@@ -14,7 +14,7 @@ Hey there! I'm **Mateusz**, a passionate developer on a mission to create awesom
 
 ## Get in Touch
 
-📫 Feel free to reach out to me via [Email](mailto:matinowak24@gmail.com) or connect with me on [LinkedIn](linkedin.com/in/mati-nowak).
+📫 Feel free to reach out to me via [Email](mailto:matinowak24@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/mati-nowak).
 
 ## Let's Collaborate
 🤝 I'm always open to exciting collaboration opportunities. If you have an interesting project or idea in mind, let's connect and bring it to life!
